@@ -3,7 +3,7 @@
 
 ## 🌐 Connect with me:  
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/balbantk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/balbant-kumar-a914401a2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balbant-kumar-a914401a2)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Balbant/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=googlescholar&logoColor=white)](https://www.geeksforgeeks.org/user/balbant_kumar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://yourportfolio.com)
@@ -23,4 +23,4 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=balbantk&color=blue)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7B93E&width=435&lines=MERN+Stack+Developer;AI+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7B93E&width=435&lines=MERN+Stack+Developer;AI+Enthusiast;Cyber+Security +&+ Ethical+Hacking+Enthusiast )](https://git.io/typing-svg)
